@@ -1,0 +1,69 @@
+
+body {
+
+    font-family: 'Roboto', sans-serif;
+
+  }
+    
+  ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .google {
+    text-align: top;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: -10px;
+    padding-bottom: 0px;
+  }
+  
+  .form {
+    text-align: center;
+    display: block;
+    padding-top: 200px; 
+  }
+  
+  .forms {
+    text-align: center;
+    padding-top: 201px;
+    margin-bottom: 300px;
+  }
+  
+  .bg {
+      margin-left: 0px;
+      margin-right: -1000px;
+      padding-top: 0px;
+  }
+    
+   #google_logo {
+     padding: 0;
+   }
+    
+   .buttons {
+     display: none;
+   }
+    
+   #form-search {
+     width: 80%;
+  
+   }
+    
+   #google_logo {
+     padding: left;
+   }
+    
+   .buttons {
+     display: none;
+   }
+    
+   #form-search {
+     width: 100%;
+  
+   }
+    
